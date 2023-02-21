@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-21T12:21:36 IST" name="Suite" finished-at="2023-02-21T12:21:48 IST" duration-ms="11391">
+    <groups>
+    </groups>
+    <test started-at="2023-02-21T12:21:36 IST" name="Test" finished-at="2023-02-21T12:21:48 IST" duration-ms="11391">
+      <class name="testCases.TC_VideoGameApi">
+        <test-method signature="test_getAllVideoGames()[pri:1, instance:testCases.TC_VideoGameApi@79924b]" started-at="2023-02-21T12:21:36 IST" name="test_getAllVideoGames" finished-at="2023-02-21T12:21:39 IST" duration-ms="2597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getAllVideoGames -->
+        <test-method signature="test_addNewVideoGame()[pri:2, instance:testCases.TC_VideoGameApi@79924b]" started-at="2023-02-21T12:21:39 IST" name="test_addNewVideoGame" finished-at="2023-02-21T12:21:45 IST" duration-ms="5667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_addNewVideoGame -->
+        <test-method signature="test_getVideoGame()[pri:3, instance:testCases.TC_VideoGameApi@79924b]" started-at="2023-02-21T12:21:45 IST" name="test_getVideoGame" finished-at="2023-02-21T12:21:45 IST" duration-ms="907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getVideoGame -->
+        <test-method signature="test_updateVideoGame()[pri:4, instance:testCases.TC_VideoGameApi@79924b]" started-at="2023-02-21T12:21:45 IST" name="test_updateVideoGame" finished-at="2023-02-21T12:21:48 IST" duration-ms="2107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_updateVideoGame -->
+        <test-method signature="test_deleteVideogame()[pri:5, instance:testCases.TC_VideoGameApi@79924b]" started-at="2023-02-21T12:21:48 IST" name="test_deleteVideogame" finished-at="2023-02-21T12:21:48 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_deleteVideogame -->
+      </class> <!-- testCases.TC_VideoGameApi -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
